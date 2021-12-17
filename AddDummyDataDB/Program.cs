@@ -6,7 +6,7 @@
         {
             
             var connnection = "Data Source=DESKTOP-D33F0NL;Initial Catalog=Cinerva;Integrated Security=True";
-           /* Role.AddRoles(connnection);
+            /*Role.AddRoles(connnection);
             User.Add20RandomUsers(connnection);
             Reservation.Add30Reservations(connnection);
             Country.Add20Countries(connnection);
